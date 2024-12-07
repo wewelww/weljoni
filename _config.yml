@@ -27,10 +27,10 @@ title: weljoni
 description: "Welcome to my blog"
 keywords: 'jekyll,theme,gem-based,blog'
 author:
-  name:
-  job_title:
-  location:
-  email:
+  name: weljoni
+  job_title: Blogger
+  location: 
+  email: 
   social_links:
     - name: facebook
       url:
